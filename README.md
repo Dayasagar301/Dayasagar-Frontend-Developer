@@ -1,4 +1,4 @@
-![Screenshot (173)](https://github.com/Dayasagar301/Dayasagar-Frontend-Developer/assets/132691000/3f715aad-5f07-47f0-9f9c-d942c0866bee)# Matrix
+# Matrix
 
 ## Introduction
 Welcome to the AI.GEN project! This project is a modern web application built using React with Vite and styled with Tailwind CSS. It aims to deliver a sleek, efficient, and highly performant user interface without relying on any extra UI libraries.
@@ -145,8 +145,8 @@ TypeScript: Ensures type safety and modern JavaScript features.
 No extra UI libraries: Purely Tailwind CSS for styling.
 ```
 
-```bash
-<h1><Installation/h1>
+
+Installation
 1.Clone the repository:
 ```
 git clone https://github.com/Dayasagar301/Dayasagar-Frontend-Developer.git
