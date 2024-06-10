@@ -5,7 +5,11 @@ const GetStarted = () => {
   return (
    <section className='getstarted'>
     <div>
-     <button>Get Started <span class="material-symbols-outlined">
+      <br />
+      <br />
+      <br />
+      <br />
+     <button >Get Started <span class="material-symbols-outlined">
 arrow_forward
 </span></button> 
      

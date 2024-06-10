@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <AIGEN />
-      <HeroSection2/>
+     
       
       <HowItWorks />
       <Scroll/>

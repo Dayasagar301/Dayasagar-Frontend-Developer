@@ -81,20 +81,20 @@ function Home() {
           </div>
         </div>
       </header>
-      <div className="self-stretch flex flex-row items-start justify-start pt-0 px-0 pb-[448.2px] box-border max-w-full shrink-0 text-base text-white">
-        <div className="h-[1292px] w-[1440px] flex flex-col items-start justify-start pt-[127.6px] px-[171px] pb-[669.9px] box-border relative gap-[77.9px] max-w-full z-[2] mq450:h-auto mq450:gap-[19px] mq450:pl-5 mq450:pr-5 mq450:box-border mq825:gap-[39px] mq825:pl-[42px] mq825:pr-[42px] mq825:box-border mq1425:pl-[85px] mq1425:pr-[85px] mq1425:box-border">
-          <div className="w-[668.5px] flex flex-row items-start justify-start py-0 px-1 box-border max-w-full shrink-0">
-            <div className="flex-1 flex flex-col items-start justify-start gap-[48px] shrink-0 [debug_commit:bf4bc93] max-w-full mq825:gap-[24px]">
+      <div className="self-stretch flex flex-row items-start justify-start pt-0 px-0 pb-[448.2px] box-border max-w-full shrink-0 text-base text-white ">
+        <div className="h-[1292px] w-[1440px] flex flex-col items-start justify-start pt-[127.6px] px-[120px] pb-[669.9px] box-border relative gap-[77.9px] max-w-full z-[2] mq450:h-auto mq450:gap-[19px] mq450:pl-5 mq450:pr-5 mq450:box-border mq825:gap-[39px] mq825:pl-[42px] mq825:pr-[42px] mq825:box-border mq1425:pl-[85px] mq1425:pr-[85px] mq1425:box-border ">
+          <div className="w-[668.5px] flex flex-row items-start justify-start py-0 px-1 box-border max-w-full shrink-0 ">
+            <div className="flex-1 flex flex-col items-start justify-start gap-[48px] shrink-0 [debug_commit:bf4bc93] max-w-full mq825:gap-[24px] ">
               <div className="self-stretch flex flex-col items-start justify-start gap-[64px] mq450:gap-[16px] mq825:gap-[32px]">
-                <div className="w-[315px] rounded-[10px] [background:linear-gradient(94.15deg,_rgba(255,_255,_255,_0.3)_0%,_rgba(171,_171,_171,_0.15))] flex flex-col items-start justify-start py-[0.5px] px-px box-border z-[4]">
-                  <div className="self-stretch flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0">
-                    <div className="self-stretch rounded-[9px] bg-gray-100 flex flex-row flex-wrap items-center justify-center pt-[6.8px] px-3 pb-[6.7px] gap-[8px]">
-                      <div className="relative leading-[24px] inline-block min-w-[16px] mq450:w-full mq450:h-4">
+                <div className="w-[315px] rounded-[10px] [background:linear-gradient(94.15deg,_rgba(255,_255,_255,_0.3)_0%,_rgba(171,_171,_171,_0.15))] flex flex-col items-start justify-start py-[0.5px] px-px box-border z-[4] ">
+                  <div className="self-stretch flex flex-col items-center justify-center pt-[0.5px] px-0 pb-0 ">
+                    <div className="self-stretch rounded-[9px] bg-gray-100 flex flex-row flex-wrap items-center justify-center pt-[6.8px] px-3 pb-[6.7px] gap-[8px] ">
+                      <div className="relative leading-[24px] inline-block min-w-[16px] mq450:w-full mq450:h-4 " >
                         🎉
                       </div>
                       <div className="flex-1 flex flex-col items-start justify-start min-w-[172px]">
                         <div className="self-stretch flex flex-col items-start justify-start pt-0 px-0 pb-[0.5px]">
-                          <div className="relative leading-[24px] whitespace-pre-wrap">
+                          <div className="relative leading-[24px] whitespace-pre-wrap" >
                             New in AI.GEN: Real Time Interaction
                           </div>
                         </div>
@@ -149,11 +149,11 @@ function Home() {
               </div>
             </div>
           </div>
-          <div className="w-[1845px] h-[1230px] absolute !m-[0] bottom-[-478px] left-[-732px] [background:radial-gradient(50%_50%_at_50%_50%,_rgba(92,_195,_250,_0.28),_rgba(92,_195,_250,_0))] opacity-[0.8]" />
+          <div className="w-[1845px] h-[1230px] absolute !m-[0] bottom-[-478px] left-[-732px] [background:radial-gradient(50%_50%_at_50%_50%,_rgba(92,_195,_250,_0.28),_rgba(92,_195,_250,_0))] opacity-[0.8" style={{marginLeft:"1000px"}} />
           <div className="w-[1845px] h-[1230px] absolute !m-[0] right-[-636px] bottom-[-354px] [background:radial-gradient(50%_50%_at_50%_50%,_rgba(250,_117,_248,_0.28),_rgba(250,_117,_248,_0))] opacity-[0.7] z-[1]" />
           <div className="w-[1845px] h-[1230px] absolute !m-[0] top-[16px] left-[-650px] [background:radial-gradient(50%_50%_at_50%_50%,_rgba(158,_110,_230,_0.28),_rgba(158,_110,_230,_0))] opacity-[0.8] z-[2]" />
           <div className="w-[] mt-[-40px] absolute right-[0.5px] overflow-hidden flex flex-row flex-wrap items-start justify-start gap-[100px] max-w-full z-[3]">
-            <div className="h-[741px] flex flex-col items-start justify-start pt-[111px] px-0 pb-[0.1px] box-border gap-[48.6px]">
+            <div className="h-[741px] flex flex-col items-start justify-start pt-[111px] px-0 pb-[0.1px] box-border gap-[48.6px] ">
               <div className="w-[178.3px] h-[177.4px] relative rounded-[21.61px] flex items-center justify-center">
                 <img
                   className="w-full h-full object-contain absolute left-[0px] top-[18px] [transform:scale(1.407)]"
@@ -231,7 +231,7 @@ function Home() {
               </div>
             </div>
           </div>
-          <div className="w-[1845px] h-[1230px] flex flex-row items-start justify-start shrink-0 [debug_commit:bf4bc93] max-w-[169%]">
+          <div className="w-[1845px] h-[1230px] flex flex-row items-start justify-start shrink-0 [debug_commit:bf4bc93] max-w-[169%] ">
             <div className="self-stretch flex-1 relative [background:radial-gradient(50%_50%_at_50%_50%,_rgba(92,_195,_250,_0.22),_rgba(92,_195,_250,_0))] max-w-full" />
           </div>
           <div className="w-[1263.5px] h-[386.6px] absolute !m-[0] top-[500px] left-[-60.5px] max-w-full text-center text-29xl">
@@ -409,7 +409,8 @@ function Home() {
                               background:
                                 "linear-gradient(90deg, #facc69, #ff91a5)",
                               WebkitBackgroundClip: "text",
-                              WebkitTextFillColor: "transparent",
+                              WebkitTextFillColor: "transparent ",
+                              
                             }}
                           >
                             <span className="font-medium">
