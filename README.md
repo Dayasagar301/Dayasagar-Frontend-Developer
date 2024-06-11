@@ -113,7 +113,8 @@ cd my-appp
 npm run start
 ```
 ###
-![Screenshot (173)](https://github.com/Dayasagar301/Dayasagar-Frontend-Developer/assets/132691000/1cde6ab3-c028-4f67-ae71-06f84593f3df)
+
+![Screenshot (175)](https://github.com/Dayasagar301/Dayasagar-Frontend-Developer/assets/132691000/87a10f83-6926-4086-ac6a-b58095ba7580)
 
 
 <hr/>
