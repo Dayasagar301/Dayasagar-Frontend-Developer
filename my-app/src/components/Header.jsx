@@ -12,8 +12,7 @@ import { Navbar } from './Navbar';
 
 export const Header = () => {
   return (
-    <div className="mx-auto w-full relative overflow-hidden header" style={{ background: 'linear-gradient(94.15deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 192, 203, 0.5), rgba(171, 171, 171, 0.15))'}}
-    >
+    <div className="mx-auto w-full relative overflow-hidden header">
       <Navbar />
       <div className="md:flex p-10 mt-20">
         <header className="md:w-[50%] md:ml-40 mt-20">

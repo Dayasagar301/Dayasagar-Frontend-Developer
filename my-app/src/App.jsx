@@ -5,13 +5,13 @@ import GetStarted from "./components/GetStarted";
 
 // import { GetStarted } from "./components/GetStarted";
 import { Header } from "./components/Header";
-import { ItemSection } from "./components/ItemSection";
+import { ItemSection } from "./components/Item";
 import { RoadMap1 } from "./components/RoadMap1";
 import { RoadMap2 } from "./components/RoadMap2";
 import { RoadMap3 } from "./components/RoadMap3";
 
 import { TechTools } from "./components/Technologies";
-import { TextSection } from "./components/TextSection";
+import { TextSection } from "./components/Text";
 import Tokenomics from "./components/Tokenomics";
 
 function App() {
