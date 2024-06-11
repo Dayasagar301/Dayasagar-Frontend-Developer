@@ -89,7 +89,7 @@ Dayasagar-Frontend-Developer
 ## Video Walkthrough of the project
 A detailed walkthrough of all the features of our project can be found here:
 
-https://drive.google.com/file/d/1Aj779hLo0F6sfpQEUGzlm_8smaBSlts6/view?usp=drive_link
+[https://drive.google.com/file/d/1Aj779hLo0F6sfpQEUGzlm_8smaBSlts6/view?usp=drive_link](https://drive.google.com/file/d/1jDkhHJI9xx_B5lpmTT7T8ZryaKtCbitc/view?usp=drive_link)
 ```
 Features
 React with Vite: Fast and optimized development setup.
