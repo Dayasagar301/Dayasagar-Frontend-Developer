@@ -10,7 +10,7 @@
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-align: left;
+  text-align: right;
 }
 
 @media (max-width: 520px) {
