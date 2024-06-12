@@ -114,12 +114,11 @@ npm run start
 ```
 ###
 
-![Screenshot (175)](https://github.com/Dayasagar301/Dayasagar-Frontend-Developer/assets/132691000/87a10f83-6926-4086-ac6a-b58095ba7580)
+![ezgif com-animated-gif-maker](https://github.com/Dayasagar301/Dayasagar-Frontend-Developer/assets/132691000/ed659dfa-1b0f-4360-8105-194272d58060)
 
 
 <hr/>
 
-![Screenshot (174)](https://github.com/Dayasagar301/Dayasagar-Frontend-Developer/assets/132691000/b1f9a78d-6b72-4b20-b4e1-cd6fb212dbe9)
 
 
 
